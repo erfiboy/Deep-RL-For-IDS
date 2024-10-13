@@ -17,3 +17,5 @@ This repository presents an Intrusion Detection and Prevention System (IDPS) des
 - Autoencoders for synthetic data generation
 
 
+## Results
+- [Report](./RL_IDPS.pdf)
