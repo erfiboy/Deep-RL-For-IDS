@@ -4,16 +4,16 @@ This repository presents an Intrusion Detection and Prevention System (IDPS) des
 
 ## Features
 
-- **Device Classification**: Classifies IoT devices using a Random Forest (RF) algorithm.
-- **Attack Detection**: Detects intrusions using a Convolutional Neural Network (CNN).
-- **Attack Identification**: Identifies attack types via the XGBoost model.
-- **Proactive Threat Mitigation**: Utilizes Deep Deterministic Policy Gradient (DDPG) reinforcement learning to mitigate attacks.
+- **Device Classification**: Classifies IoT devices using a [Random Forest (RF)](https://en.wikipedia.org/wiki/Random_forest) algorithm.
+- **Attack Detection**: Detects intrusions using a [Convolutional Neural Network (CNN)](https://en.wikipedia.org/wiki/Convolutional_neural_network).
+- **Attack Identification**: Identifies attack types via the [XGBoost](https://xgboost.ai/) model.
+- **Proactive Threat Mitigation**: Utilizes [Deep Deterministic Policy Gradient (DDPG)](https://spinningup.openai.com/en/latest/algorithms/ddpg.html) reinforcement learning to mitigate attacks.
 
 ## Technologies Used
 
 - Python
-- Machine Learning (Random Forest, CNN, XGBoost)
-- Deep Reinforcement Learning (DDPG)
+- Machine Learning ([Random Forest](https://en.wikipedia.org/wiki/Random_forest), [CNN](https://en.wikipedia.org/wiki/Convolutional_neural_network), [XGBoost](https://xgboost.ai/))
+- Deep Reinforcement Learning ([DDPG](https://spinningup.openai.com/en/latest/algorithms/ddpg.html))
 - Autoencoders for synthetic data generation
 
 ## Installation
