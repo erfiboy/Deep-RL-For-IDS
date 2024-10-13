@@ -106,20 +106,13 @@ Our system was tested using the BoT-IoT dataset. The evaluation demonstrated hig
 - **Confusion Matrix** to visualize the classification performance.
 - **Reward Metrics** from the reinforcement learning agent.
 
-## Results
+## [Results](./RL_IDPS.pdf)
 
 - **Device Identification**: Accurate classification of IoT devices using Random Forest.
 - **Attack Detection**: The CNN achieved high accuracy in detecting network attacks.
 - **Attack Type Identification**: XGBoost successfully classified attack types.
 - **Proactive Defense**: The DDPG agent effectively mitigated DDoS attacks, but showed some limitations in ransomware defense.
 
-## Contributing
-
-Contributions are welcome! If you'd like to contribute to this project, feel free to submit [issues](https://github.com/yourusername/IDPS-IoT/issues) or [pull requests](https://github.com/yourusername/IDPS-IoT/pulls).
-
-## Future Work
-
-Future work on this project could include:
 
 - Incorporating network flow data to capture additional threat patterns.
 - Expanding the attack prevention model to handle other attack types beyond DDoS and ransomware.
